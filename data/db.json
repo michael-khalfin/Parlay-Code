@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "mlkpad14",
+      "email": "michael@yahoo.com",
+      "password": "MICHAEL",
+      "fname": "Michael",
+      "lname": "Khalfin",
+      "phone": 5165069198,
+      "instagram": "michael_khalfin",
+      "twitter": "michael870",
+      "bio": "I love Parlay!",
+      "wallet address": "0x234Da4Hi24kso24KJa",
+      "ideas": [1, 2]
+    },
+    {
+      "username": "ryan204",
+      "email": "ryan@yahoo.com",
+      "password": "RYAN",
+      "fname": "Ryan",
+      "lname": "Pinsker",
+      "phone": 5165809987,
+      "instagram": "ryan_pinsker",
+      "twitter": "ryan870",
+      "bio": "I love Parlay the most!",
+      "wallet address": "0x234Da4Hi24kso24KJb",
+      "ideas": [3, 4]
+    }
+  ]
+}

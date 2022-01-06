@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #0000ff;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #0000ff;
+}
+
+.new-idea {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+.new-idea h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#walletButton, #mintButton {
+  font-size: 16px;
+}
+
+#status {
+  margin-top: 10px;
+}
+
+#description {
+  height: 100px;
+}
+
+.new-idea label {
+  text-align: left;
+  display: block;
+}
+.new-idea h2 {
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.new-idea input, .new-idea textarea, .new-idea select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.new-idea button {
+  background: #0000ff;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
